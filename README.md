@@ -10,7 +10,7 @@
 ### Иерархия папок и файлов
     .
     ├── Clients
-    │   ├── Fabric 1.16.5
+    │   ├── ...
     │   └── Optifine 1.12.2
     │       ├── assets
     │       ├── libraries
@@ -18,6 +18,7 @@
     │       ├── OptiFine 1.12.2.jar
     │       └── OptiFine 1.12.2.json
     ├── Java
+    │   ├── ...
     │   └── java8_351_win_32bit
     │       ├── bin
     │       └── ...
