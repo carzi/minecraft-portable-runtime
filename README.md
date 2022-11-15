@@ -4,8 +4,8 @@
 1. Скачайте [последнюю](https://github.com/carzi/minecraft-portable-runtime/releases/tag/release) версию MPR.
 2. Создайте папку в удобном вам месте и перенесите скачаные файлы в неё.
 3. Затем в этой папке создайте 2 новые: `Clients` и `Java`.
-4. Скачайте портативную, нужную вам версию Java и поместетие в соответствующую папку. [[можно скачать отсюда](https://mega.nz/folder/WNBglDRA#I0WQd-cQtVnlAWDafuRetg)]
-5. Скачайте или создайте клиент и поместетие в соответствующую папку. [[можно скачать отсюда](https://mega.nz/folder/WNBglDRA#I0WQd-cQtVnlAWDafuRetg)]
+4. Скачайте портативную, нужную вам версию Java и поместетие в соответствующую папку. [[архив](https://mega.nz/folder/WNBglDRA#I0WQd-cQtVnlAWDafuRetg)]
+5. Скачайте или создайте клиент и поместетие в соответствующую папку. [[архив](https://mega.nz/folder/WNBglDRA#I0WQd-cQtVnlAWDafuRetg)]
 
 ### Иерархия папок и файлов
     .
